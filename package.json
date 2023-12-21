@@ -1,0 +1,24 @@
+{
+  "name": "nmc",
+  "version": "0.0.1",
+  "description": "NFC Media Center, A pi based nfc system for playing music.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarzorus/nmc.git"
+  },
+  "keywords": [
+    "nfc",
+    "music",
+    "media-player"
+  ],
+  "author": "Logan Cormier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sarzorus/nmc/issues"
+  },
+  "homepage": "https://github.com/Sarzorus/nmc#readme"
+}
