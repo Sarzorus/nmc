@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Sarzorus/nmc/issues"
   },
-  "homepage": "https://github.com/Sarzorus/nmc#readme"
+  "homepage": "https://github.com/Sarzorus/nmc#readme",
+  "dependencies": {
+    "vlc-client": "^1.1.1"
+  }
 }

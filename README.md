@@ -17,6 +17,8 @@ npm --version
 10.2.5
 ```
 
+Note: vlc can be run with cvlc to runwithout the interface.
+
 This is all that's needed at the moment, however it is likely that VLC and additional software dependencies will be required to make things work correctly. 
 
 ### Licensing 
